@@ -1,6 +1,6 @@
-# Hello World in NASM on macOS M1
+# Hello World in NASM on macOS M Series
 
-This is a minimal "Hello World" program written in NASM for macOS. It demonstrates how to write a 64-bit assembly program and link it using `clang` on an Apple Silicon Mac (M1/M2).
+This is a minimal "Hello World" program written in NASM for macOS. It demonstrates how to write a 64-bit assembly program and link it using `clang` on an Apple Silicon Mac (M Series).
 
 ---
 
